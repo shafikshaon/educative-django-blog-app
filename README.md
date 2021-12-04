@@ -1,0 +1,1 @@
+# educative-django-blog-app
